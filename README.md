@@ -45,14 +45,14 @@ A role-aware admin dashboard built with React, Node.js, Express, and MongoDB.
 ## Screenshots
 
 ### Dashboard
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### User Management
-![Users](Screenshots/user.png)
-![Users](Screenshots/user(1).png)
+![Users](Screenshots/User.png)
+![Users](Screenshots/User(1).png)
 
 ### Add User
-![Add User](Screenshots/add-user.png)
+![Add User](Screenshots/Add-user.png)
 
 ### Analytics
-![Analytics](Screenshots/analytics.png)
+![Analytics](Screenshots/Analytics.png)
