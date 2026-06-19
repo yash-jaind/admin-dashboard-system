@@ -1,4 +1,4 @@
-# React Admin Dashboard — Full Stack (MERN)
+#Admin Dashboard System
 
 A role-aware admin dashboard with real authentication and persistence: React (Vite) frontend talking to an Express + MongoDB Atlas backend over a JWT-secured REST API.
 
