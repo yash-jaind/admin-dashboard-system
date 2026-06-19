@@ -42,3 +42,16 @@ A role-aware admin dashboard built with React, Node.js, Express, and MongoDB.
   - Sidebar Navigation
   - Modern Dashboard Layout
   - Mobile-Friendly Design
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### User Management
+![Users](screenshots/users.png)
+
+### Add User
+![Add User](screenshots/add-user.png)
+
+### Analytics
+![Analytics](screenshots/analytics.png)
